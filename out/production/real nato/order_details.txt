@@ -1,0 +1,20 @@
+Customer Name: AAAA
+Address: AAA
+Phone Number: @@@
+Total Amount: PHP 961.0
+
+Customer Name: aLSONN
+Address: JOSEPH
+Phone Number: GUANLAO
+Total Amount: PHP 49950.0
+
+Customer Name: A
+Address: A
+Phone Number: 1
+Total Amount: PHP 124.0
+
+Customer Name: a
+Address: a
+Phone Number: a
+Total Amount: PHP 0.0
+
